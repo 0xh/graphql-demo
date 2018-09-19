@@ -150,6 +150,7 @@ return [
         /*
          * Package Service Providers...
          */
+        \Folklore\GraphQL\ServiceProvider::class,
 
         /*
          * Application Service Providers...
